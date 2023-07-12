@@ -22,6 +22,19 @@ $(function () {
     }
   });
 
+  // an event listener for the saveBtn
+  saveBtn.on("click", function () {
+    // saves text for event in local storage
+    var description = $(this).siblings(".description").val().replace(hour)
+    var hour = $(this).parent().attr("id")
+    localStorage.setItem(hour, JSON.stringify(description))
+  });
+
+  // for loops applies event to all time blocks
+  for (var i = 9; i <= 17; i++) {
+    $(`#${i} textarea`).val(JSON.parse(localStorage.getItem(`${i}`)))
+  };
+
   // displays current date and time on page
   currentDay.text(dayjs().format('ddd, MMMM DD, YYYY [at] hh:mm a'))
 });
