@@ -5,7 +5,8 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Visuals](#visuals)
-- [Project Repo/Deployed Site](#project-repo-deployed-site)
+- [Project Repo](#project-repo)
+- [Deployed Site](#deployed-site)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Support](#support)
@@ -44,9 +45,10 @@ THEN the saved events persist
 ## Visuals
 ![](./gif/app.gif)
 
-## Project Repo-Deployed Site
+## Project Repo
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Third-Party-APIs-Work-Day-Scheduler)
 
+## Deployed Site
 [Work Day Scheduler Deployed Application](https://eliasjrivera.github.io/Third-Party-APIs-Work-Day-Scheduler/)
 
 ## Installation
