@@ -49,7 +49,7 @@ THEN the saved events persist
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Third-Party-APIs-Work-Day-Scheduler)
 
 ## Deployed Site
-[Work Day Scheduler Deployed Application](https://eliasjrivera.github.io/Third-Party-APIs-Work-Day-Scheduler/)
+[Work Day Scheduler Deployed Site](https://eliasjrivera.github.io/Third-Party-APIs-Work-Day-Scheduler/)
 
 ## Installation
 `git clone git@github.com:eliasjrivera/Third-Party-APIs-Work-Day-Scheduler.git`
