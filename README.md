@@ -4,7 +4,6 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Badges](#badges)
 - [Visuals](#visuals)
 - [Project Repo/Deployed Site](#project-repo-deployed-site)
 - [Installation](#installation)
@@ -41,8 +40,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
-
-## Badges
 
 ## Visuals
 ![](./gif/app.gif)
