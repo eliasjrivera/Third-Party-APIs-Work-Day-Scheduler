@@ -12,7 +12,6 @@
 - [Support](#support)
 - [Contributing](#contributing)
 - [Authors and Acknowledgement](#authors-and-acknowledgement)
-- [License](#license)
 - [Project Status](#project-status)
 
 ## Description
@@ -51,14 +50,14 @@ THEN the saved events persist
 ## Project Repo-Deployed Site
 [Elias Rivera GitHub Repo](https://github.com/eliasjrivera/Third-Party-APIs-Work-Day-Scheduler)
 
-[Deployed Application](https://eliasjrivera.github.io/Third-Party-APIs-Work-Day-Scheduler/)
+[Work Day Scheduler Deployed Application](https://eliasjrivera.github.io/Third-Party-APIs-Work-Day-Scheduler/)
 
 ## Installation
 `git clone git@github.com:eliasjrivera/Third-Party-APIs-Work-Day-Scheduler.git`
   
 ## Usage
   
-Click into a timeblock, then enter an event then click the save button for that timeblock. 
+Click into a timeblock, then enter an event then click the save button for that timeblock
 
 ## Support
 Elias Rivera
@@ -66,11 +65,10 @@ Elias Rivera
 eliasjohnrivera@gmail.com
 
 ## Contributing
-Contributors should read the installation section.
+Contributors should read the installation section
 
 ## Authors and Acknowledgement
 Elias Rivera
-## License
 
 ## Project Status
-Project is finished.
+Project is finished
